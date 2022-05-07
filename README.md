@@ -13,5 +13,5 @@ Photo, Pixel Editor &amp; Widget
 
 
 ---------------
-![1](https://github.com/vitaliim89/PixelWdiget/blob/master/Asset/1.png)
-![2](https://github.com/vitaliim89/PixelWdiget/blob/master/Asset/2.png)
+![1](https://github.com/vitaliim89/PixelWdiget/blob/main/Asset/1.png)
+![2](https://github.com/vitaliim89/PixelWdiget/blob/main/Asset/2.png)
